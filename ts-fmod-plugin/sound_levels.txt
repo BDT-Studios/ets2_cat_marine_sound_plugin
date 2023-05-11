@@ -1,0 +1,8 @@
+{
+    "master": 1.0,
+    "engine": 1.25,
+    "exhaust": 1.25,
+    "turbo": 0.35,
+    "interior": 1,
+    "exterior_when_windows_closed": 0.65
+}
